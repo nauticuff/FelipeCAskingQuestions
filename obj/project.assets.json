@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\petec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge3\\cfelipeminichallenge3.csproj",
+      "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\felipecAskingQuestions\\cfelipeminichallenge3.csproj",
       "projectName": "cfelipeminichallenge3",
-      "projectPath": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge3\\cfelipeminichallenge3.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge3\\obj\\",
+      "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\felipecAskingQuestions\\cfelipeminichallenge3.csproj",
+      "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\felipecAskingQuestions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
