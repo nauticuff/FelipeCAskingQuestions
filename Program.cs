@@ -1,10 +1,7 @@
 ﻿/*
-Carlos Felipe Sales
-9-8-22
-Mini Challenge 3 - Asking Questions
-This code asks a user for two inputs, their name
-and the time they woke up
-It takes those two inputs and creates a sentence
+Carlos Felipe
+10/19/22
+This program asks the user for their name and the time they woke up. There is replayability and data validation.
 */
 Console.Clear();
 bool run = true;
